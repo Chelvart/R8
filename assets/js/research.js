@@ -4,38 +4,38 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
+    title: "Nyuakkkss",
     authors:
-      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
+      "Abdul Rosyid",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "Belom Ada",
+    researchYr: 2023,
     citebox: "popup1",
-    image: "assets/images/research-page/inteferenceNetwork.png",
+    image: "https://w0.peakpx.com/wallpaper/100/986/HD-wallpaper-garou-one-punch-man-art-manga-anime-monster.jpg",
     citation: {
       vancouver:
-        "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Abdul Rosyid.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 1",
+      "Dibilang Belum Ada Ngeyel",
     absbox: "absPopup1",
   },
 
   {
-    title: "A Call for More Rigor in Unsupervised Cross-lingual Learning",
+    title: "Edisi Takut Masa Depan",
     authors:
-      "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre",
+      "Abdul Rosyid",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "Pernah Ga Si Lu Pada Mikirin Masa Depan Lu Bakal Jadi Apa?",
+    researchYr: 2023,
     citebox: "popup2",
-    image: "assets/images/research-page/crossLingual.png",
+    image: "https://w0.peakpx.com/wallpaper/447/978/HD-wallpaper-itachi-uchiha-sasuke-sasuke-uchiha-anime-kakashi-naruto-anime-naruto-uzumaki.jpg",
     citation: {
       vancouver:
-        "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Rosyid",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 2",
+      " Rosyid suka mommy ada",
     absbox: "absPopup2",
   },
 
