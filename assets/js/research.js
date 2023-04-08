@@ -55,9 +55,8 @@ const research = [
     abstract:
       "SIKAT",
     absbox: "absPopup3",
- }, 
-  {
-];
+  },
+]; 
 AOS.init();
 const fillData = () => {
   let output = "";
