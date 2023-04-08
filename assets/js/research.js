@@ -6,54 +6,54 @@ const research = [
   {
     title: "The Sunset Is Beautiful Isn't It",
     authors:
-      "The Sunset Is Beautiful Isn't It",
+      "Rosyid",
     conferences:
-        "The Sunset Is Beautiful Isn't It",
+        "Are you happy with someone new?",
     researchYr: 2020,
     citebox: "popup1",
     image: "https://w0.peakpx.com/wallpaper/553/177/HD-wallpaper-itachi-uchiha-akatsuki-amaterasu-anime-clan-uchiha-naruto-naruto-shippuden-sharingan.jpg",
     citation: {
       vancouver:
-        "Sbr",
+        "Ya",
     },
     abstract:
-      "Cape",
+      "Happy ",
     absbox: "absPopup1",
   },
 
   {
-    title: "The Sunset Is Beautiful Isn't It",
+    title: "Say you won't let go",
     authors:
-      "The Sunset Is Beautiful Isn't It",
+      "Rosyid",
     conferences:
-      "The Sunset Is Beautiful Isn't It",
+      "Just say you won't let go",
     researchYr: 2020,
     citebox: "popup2",
     image: "https://w0.peakpx.com/wallpaper/5/252/HD-wallpaper-my-way-aesthetic-anime-itachi-kakashi-naruto-naruto-shippuden-obito-obito-uchiha-sasuke-uchiha.jpg",
     citation: {
       vancouver:
-        "The Sunset Is Beautiful Isn't It.",
+        "James Arthur.",
     },
     abstract:
-      "The Sunset Is Beautiful Isn't It",
+      "What about ur promise",
     absbox: "absPopup2",
   },
 
   {
     title:
-      "The Sunset Is Beautiful Isn't It",
-    authors: "The Sunset Is Beautiful Isn't It",
+      "Night Changes",
+    authors: "Rosyid",
     conferences:
-      "The Sunset Is Beautiful Isn't It",
+      "It will never change me and you",
     researchYr: 2020,
     citebox: "popup3",
     image: "https://w0.peakpx.com/wallpaper/544/396/HD-wallpaper-kokushibo-kimetsu-upper-no-kimetsu-no-yaiba-anime-goku-yaiba-demon-slayer-moon-naruto-tanjiro.jpg",
     citation: {
       vancouver:
-        "The Sunset Is Beautiful Isn't It.",
+        "One Direction.",
     },
     abstract:
-      "The Sunset Is Beautiful Isn't It",
+      "Moving to fast",
     absbox: "absPopup3",
   },
 
