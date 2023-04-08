@@ -112,37 +112,37 @@ const research = [
 
   {
     title:
-      "Unsupervised Learning for Intrinsic Image Decomposition From a Single Image",
-    authors: "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng",
+      "About You",
+    authors: "Rosyid",
     conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "Do you think I have forgotten",
     researchYr: 2020,
     citebox: "popup7",
     image: "https://w0.peakpx.com/wallpaper/235/311/HD-wallpaper-eren-and-mikasa-anime-aot-attack-on-titan-eren-jaeger-eren-yeager-levi-levi-ackerman-love.jpg",
     citation: {
       vancouver:
-        "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+        "The 1975",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 7",
+      "Do You Think I Have Forgotten About You",
     absbox: "absPopup7",
   },
   {
     title:
-      "Forward and Backward Information Retention for Accurate Binary Neural Networks",
+      "Rumah Ke Rumah",
     authors:
-      "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan",
+      "Rosyid",
     conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "Kau Pantas Dapatkan Yang Baik Didunia",
     researchYr: 2020,
     citebox: "popup8",
     image: "https://w0.peakpx.com/wallpaper/68/676/HD-wallpaper-eren-yeager-cloud-reiner-braun-sky-attack-on-titan-anime-aesthetic-jean-kirstein-shingeki-no-kyojin-levi-ackerman-mikasa-ackerman.jpg",
     citation: {
       vancouver:
-        "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+        "Hindia.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 8",
+      "Mengambil Pelajaran Jika Berpisah.",
     absbox: "absPopup8",
   },
 ];
