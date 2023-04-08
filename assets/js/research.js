@@ -59,7 +59,7 @@ const research = [
 
   {
     title:
-      "Angin Kencang,
+      "Angin Kencang",
     authors:
       "Rosyid",
     conferences:
