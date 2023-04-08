@@ -37,7 +37,7 @@ const research = [
     abstract:
       "This is currently left empty and this can be considered as a dummy data 2",
     absbox: "absPopup2",
-
+  },
   },
 ];
 AOS.init();
