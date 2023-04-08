@@ -4,56 +4,56 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
+    title: "The Sunset Is Beautiful Isn't It",
     authors:
-      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
+      "The Sunset Is Beautiful Isn't It",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+        "The Sunset Is Beautiful Isn't It",
     researchYr: 2020,
     citebox: "popup1",
-    image: "assets/images/research-page/inteferenceNetwork.png",
+    image: "https://w0.peakpx.com/wallpaper/553/177/HD-wallpaper-itachi-uchiha-akatsuki-amaterasu-anime-clan-uchiha-naruto-naruto-shippuden-sharingan.jpg",
     citation: {
       vancouver:
-        "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Sbr",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 1",
+      "Cape",
     absbox: "absPopup1",
   },
 
   {
-    title: "A Call for More Rigor in Unsupervised Cross-lingual Learning",
+    title: "The Sunset Is Beautiful Isn't It",
     authors:
-      "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre",
+      "The Sunset Is Beautiful Isn't It",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+      "The Sunset Is Beautiful Isn't It",
     researchYr: 2020,
     citebox: "popup2",
-    image: "assets/images/research-page/crossLingual.png",
+    image: "https://w0.peakpx.com/wallpaper/5/252/HD-wallpaper-my-way-aesthetic-anime-itachi-kakashi-naruto-naruto-shippuden-obito-obito-uchiha-sasuke-uchiha.jpg",
     citation: {
       vancouver:
-        "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "The Sunset Is Beautiful Isn't It.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 2",
+      "The Sunset Is Beautiful Isn't It",
     absbox: "absPopup2",
   },
 
   {
     title:
-      "A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks",
-    authors: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis",
+      "The Sunset Is Beautiful Isn't It",
+    authors: "The Sunset Is Beautiful Isn't It",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+      "The Sunset Is Beautiful Isn't It",
     researchYr: 2020,
     citebox: "popup3",
-    image: "assets/images/research-page/wordRepresentation.png",
+    image: "https://w0.peakpx.com/wallpaper/544/396/HD-wallpaper-kokushibo-kimetsu-upper-no-kimetsu-no-yaiba-anime-goku-yaiba-demon-slayer-moon-naruto-tanjiro.jpg",
     citation: {
       vancouver:
-        "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "The Sunset Is Beautiful Isn't It.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 3",
+      "The Sunset Is Beautiful Isn't It",
     absbox: "absPopup3",
   },
 
