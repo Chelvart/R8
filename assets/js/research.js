@@ -59,54 +59,54 @@ const research = [
 
   {
     title:
-      "A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking",
+      "Angin Kencang,
     authors:
-      "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou",
+      "Rosyid",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+      "Kau hilang terus tanpa kabar",
     researchYr: 2020,
     citebox: "popup4",
     image: "https://w0.peakpx.com/wallpaper/544/751/HD-wallpaper-black-clover-captain-yami.jpg",
     citation: {
       vancouver:
-        "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Noh Salleh.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 4",
+      "Mimpi indah ingat kamu",
     absbox: "absPopup4",
   },
 
   {
-    title: "Dual Super-Resolution Learning for Semantic Segmentation",
-    authors: "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi",
+    title: "Cloud 9",
+    authors: "Rosyid",
     conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "When she calls me pretty, I fell like somebody",
     researchYr: 2020,
     citebox: "popup5",
     image: "https://w0.peakpx.com/wallpaper/959/977/HD-wallpaper-blackclover-asta-5-leaf-clover-asta-black-clover-asta-demon-black-clover-demon-asta.jpg",
     citation: {
       vancouver:
-        "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi. Dual Super-Resolution Learning for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+        "You will always be my favorite",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 5",
+      "Beach Bunny",
     absbox: "absPopup5",
   },
 
   {
-    title: "Deep Unfolding Network for Image Super-Resolution",
-    authors: "Zhang, Kai and Van Gool, Luc and Timofte, Radu",
+    title: "No Suprise",
+    authors: "Rosyid",
     conferences:
-      "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "I'll take a quiet life",
     researchYr: 2020,
     citebox: "popup6",
     image: "https://w0.peakpx.com/wallpaper/726/91/HD-wallpaper-mikasa-akerman-aot.jpg",
     citation: {
       vancouver:
-        "Zhang, Kai and Van Gool, Luc and Timofte, Radu. Deep Unfolding Network for Image Super-Resolution. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
+        "Radiohead.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 6",
+      "Silent.",
     absbox: "absPopup6",
   },
 
