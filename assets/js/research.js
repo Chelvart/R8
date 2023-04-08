@@ -66,7 +66,7 @@ const research = [
       "The 58th Annual Meeting of the Association for Computational Linguistics",
     researchYr: 2020,
     citebox: "popup4",
-    image: "assets/images/research-page/dialogueState.png",
+    image: "https://w0.peakpx.com/wallpaper/544/751/HD-wallpaper-black-clover-captain-yami.jpg",
     citation: {
       vancouver:
         "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
@@ -83,7 +83,7 @@ const research = [
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
     researchYr: 2020,
     citebox: "popup5",
-    image: "assets/images/research-page/semanticSegmentation.png",
+    image: "https://w0.peakpx.com/wallpaper/959/977/HD-wallpaper-blackclover-asta-5-leaf-clover-asta-black-clover-asta-demon-black-clover-demon-asta.jpg",
     citation: {
       vancouver:
         "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi. Dual Super-Resolution Learning for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
@@ -100,7 +100,7 @@ const research = [
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
     researchYr: 2020,
     citebox: "popup6",
-    image: "assets/images/research-page/deepNetwork.png",
+    image: "https://w0.peakpx.com/wallpaper/726/91/HD-wallpaper-mikasa-akerman-aot.jpg",
     citation: {
       vancouver:
         "Zhang, Kai and Van Gool, Luc and Timofte, Radu. Deep Unfolding Network for Image Super-Resolution. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
@@ -118,7 +118,7 @@ const research = [
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
     researchYr: 2020,
     citebox: "popup7",
-    image: "assets/images/research-page/imageDecomposition.png",
+    image: "https://w0.peakpx.com/wallpaper/235/311/HD-wallpaper-eren-and-mikasa-anime-aot-attack-on-titan-eren-jaeger-eren-yeager-levi-levi-ackerman-love.jpg",
     citation: {
       vancouver:
         "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
@@ -136,7 +136,7 @@ const research = [
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
     researchYr: 2020,
     citebox: "popup8",
-    image: "assets/images/research-page/neuralNetworks.jpg",
+    image: "https://w0.peakpx.com/wallpaper/68/676/HD-wallpaper-eren-yeager-cloud-reiner-braun-sky-attack-on-titan-anime-aesthetic-jean-kirstein-shingeki-no-kyojin-levi-ackerman-mikasa-ackerman.jpg",
     citation: {
       vancouver:
         "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020.",
