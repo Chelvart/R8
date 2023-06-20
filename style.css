@@ -6,21 +6,25 @@ body {
   background-attachment: fixed;
 }
 
-#game-board {
-  width: 80vw; /* Menggunakan satuan viewport width */
-  height: 80vw; /* Menggunakan satuan viewport width */
-  max-width: 400px; /* Membatasi lebar maksimum */
-  max-height: 400px; /* Membatasi tinggi maksimum */
-  margin: 0 auto; /* Membuat tengah secara horizontal */
-  background-color: rgba(255, 255, 255, 0.8); /* Memberikan latar belakang transparan */
-  display: flex;
-  flex-wrap: wrap;
+.container {
+  text-align: center;
+  margin-top: 100px;
 }
 
-/* Perubahan untuk perangkat mobile */
-@media (max-width: 600px) {
-  #game-board {
-    width: 90vw; /* Menggunakan satuan viewport width */
-    height: 90vw; /* Menggunakan satuan viewport width */
-  }
+#box {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  margin: 20px auto;
+  cursor: pointer;
+}
+
+#score, #timer {
+  font-size: 24px;
+}
+
+button {
+  font-size: 20px;
+  padding: 10px 20px;
+  margin-top: 20px;
 }
