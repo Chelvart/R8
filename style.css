@@ -1,0 +1,26 @@
+body {
+  background-image: url('https://wallpapercave.com/mwp/wp5073942.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#game-board {
+  width: 80vw; /* Menggunakan satuan viewport width */
+  height: 80vw; /* Menggunakan satuan viewport width */
+  max-width: 400px; /* Membatasi lebar maksimum */
+  max-height: 400px; /* Membatasi tinggi maksimum */
+  margin: 0 auto; /* Membuat tengah secara horizontal */
+  background-color: rgba(255, 255, 255, 0.8); /* Memberikan latar belakang transparan */
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Perubahan untuk perangkat mobile */
+@media (max-width: 600px) {
+  #game-board {
+    width: 90vw; /* Menggunakan satuan viewport width */
+    height: 90vw; /* Menggunakan satuan viewport width */
+  }
+}
