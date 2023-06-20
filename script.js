@@ -1,17 +1,38 @@
-// Membuat kotak-kotak permainan
-const gameBoard = document.getElementById('game-board');
+var box = document.getElementById('box');
+var score = document.getElementById('score');
+var timer = document.getElementById('timer');
+var startButton = document.getElementById('start');
 
-for (let i = 0; i < 9; i++) {
-  const cell = document.createElement('div');
-  cell.classList.add('cell');
-  gameBoard.appendChild(cell);
-}
+var currentScore = 0;
+var countdown = 10;
+var gameStarted = false;
 
-// Menambahkan event listener untuk setiap kotak
-const cells = document.getElementsByClassName('cell');
+box.addEventListener('click', function() {
+  if (gameStarted) {
+    currentScore++;
+    score.textContent = 'Score: ' + currentScore;
+  }
+});
 
-for (let i = 0; i < cells.length; i++) {
-  cells[i].addEventListener('click', function() {
-    this.innerHTML = 'X';
-  });
-}
+startButton.addEventListener('click', function() {
+  if (!gameStarted) {
+    gameStarted = true;
+    startButton.disabled = true;
+    countdown = 10;
+    currentScore = 0;
+    score.textContent = 'Score: 0';
+    timer.textContent = 'Time: ' + countdown;
+
+    var interval = setInterval(function() {
+      countdown--;
+      timer.textContent = 'Time: ' + countdown;
+
+      if (countdown <= 0) {
+        clearInterval(interval);
+        gameStarted = false;
+        startButton.disabled = false;
+        alert('Game over! Your score is ' + currentScore);
+      }
+    }, 1000);
+  }
+});
